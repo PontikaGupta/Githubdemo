@@ -7,8 +7,8 @@ import 'package:angular/angular.dart';
 @Component(
   selector: 'my-app',
   styleUrls: ['app_component.css'],
-  templateUrl: 'app_component.html',
-  directives: [ ],
+  templateUrl: ' gapp_component.html',
+directives: [   ],
 )
 class AppComponent {
   // Nothing here yet. All logic is in TodoListComponent.
